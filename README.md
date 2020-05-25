@@ -1,5 +1,7 @@
 # workcation
 
+Learn TailwindCSS and VueJS to build a gorgious app
+
 ## Project setup
 ```
 yarn install
