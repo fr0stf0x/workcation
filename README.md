@@ -2,6 +2,8 @@
 
 Learn TailwindCSS and VueJS to build a gorgious app
 
+https://workcations.netlify.app/
+
 ## Project setup
 ```
 yarn install
